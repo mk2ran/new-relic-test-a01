@@ -1,0 +1,4 @@
+logging.level:
+  com.example.newrelictesta01: TRACE
+  com.newrelic.telemetry: TRACE
+  io.micrometer.core: TRACE
