@@ -8,6 +8,7 @@ class NewRelicTestA01ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Fork Test");
 	}
 
 }
